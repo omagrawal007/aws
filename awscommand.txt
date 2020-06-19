@@ -1,0 +1,6 @@
+
+test.jetfusionprint.com/pc/2.0
+
+ssh -i ec2tutorial.pem ec2-user@13.126.105.192
+
+whoiam   // know user name
